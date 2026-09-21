@@ -1,0 +1,6 @@
+{
+  "name": "LAST NIGHT: Zombie Survival",
+  "description": "A thrilling top-down 2D browser zombie survival shooter featuring waves, bosses, upgrades, and responsive desktop and mobile controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
